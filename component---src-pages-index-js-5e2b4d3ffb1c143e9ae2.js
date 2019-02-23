@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{139:function(e,n,t){"use strict";t.r(n);var l=t(0),a=t.n(l);n.default=function(){return a.a.createElement("div",null,a.a.createElement("h1",null,"RoomieFlow"),a.a.createElement("p",null,"Live Together Better"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-5e2b4d3ffb1c143e9ae2.js.map
