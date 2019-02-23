@@ -1,0 +1,30 @@
+{
+  "name": "roomieflow.github.io",
+  "private": true,
+  "description": "Website for RoomieFlow",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "gatsby develop",
+    "build": "gatsby build",
+    "format": "prettier --write src/**/*.{js,jsx}",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "deploy": "gatsby build && gh-pages -d public -b master"
+  },
+  "dependencies": {
+    "gatsby": "^2.1.17",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.1",
+    "prettier": "^1.16.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roomieflow/roomieflow.github.io"
+  },
+  "bugs": {
+    "url": "https://github.com/roomieflow/roomieflow.github.io/issues"
+  }
+}
